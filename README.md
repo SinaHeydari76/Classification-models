@@ -1,6 +1,6 @@
 # Classification-models
 
-This an experimantal report on implementing and analyzing fundamental machine learning classification models. It is divided into two main sections.
+This is an experimantal report on implementing and analyzing fundamental machine learning classification models. It is divided into two main sections.
 
 ### The first section
 
